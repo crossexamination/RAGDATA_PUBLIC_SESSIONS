@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Selo Forense RAG DATA"
+  data-ragdata-version="2.0-secure"
+  data-seal-id="RD-20260516T165307-E669EC1C33"
+  data-document-sha256="e669ec1c330578b66ae365ced157063aa37e3fa9049d11f54c4dff15353081a0"
+  data-metadata="eyJhcHAiOiJSQUcgREFUQSAtIEFzc2luYWRvciBGb3JlbnNlIFNlZ3VybyIsImFwcF92ZXJzaW9uIjoiMi4wLXNlY3VyZSIsImRvY3VtZW50X25hbWUiOiJBVEFfQ09OU09MSURBREFfU0VTU0FPXzE2XzA1XzIwMjYucGRmIiwiZG9jdW1lbnRfc2hhMjU2IjoiZTY2OWVjMWMzMzA1NzhiNjZhZTM2NWNlZDE1NzA2M2FhMzdlM2ZhOTA0OWQxMWY1NGM0ZGZmMTUzNTMwODFhMCIsImhhc2hfYWxnb3JpdGhtIjoiU0hBLTI1NiIsImlzc3VlZF9hdF91dGMiOiIyMDI2LTA1LTE2VDE2OjUzOjA3WiIsImxlZ2FsX25vdGUiOiJSZWdpc3RybyB0w6ljbmljbyBkZSBpbnRlZ3JpZGFkZS4gQSBhdmFsaWHDp8OjbyBqdXLDrWRpY28tcHJvYmF0w7NyaWEgZGVwZW5kZSBkZSBjdXJhZG9yaWEgaHVtYW5hIGUgY29udGV4dG8gZG8gY2Fzby4iLCJyZWdpc3RlcmVkX3NvZnR3YXJlIjoiSU5QSSBCUjUxMjAyNjAwMjgwNC0zIiwic2NoZW1hIjoicmFnZGF0YS5mb3JlbnNpYy1zZWFsLnYyIiwic2VhbF9pZCI6IlJELTIwMjYwNTE2VDE2NTMwNy1FNjY5RUMxQzMzIiwic2lnbmF0dXJlX2FsZ29yaXRobSI6IlJTQS1QU1MtU0hBMjU2Iiwic2lnbmVyIjoiRHJhLiBNaXJpYW0gTWVzcXVpdGEgUmVpcyAtIE9BQi9SSiAxNzEuMDM5Iiwic291cmNlX2hhc2hfc2hhMjU2IjoiYTY5MDA0MjE3MzRkYzEwYjU4M2JkZmUzYmU1ZjJkNDBlZGQyMjhlZDAyNDcxMjAwM2RiOTZmYmIwZTNjNTg1MiIsInZlcmlmaWNhdGlvbl91cmwiOiJodHRwczovL2F1ZGl0Zm9yZW5zZS5kaWdpdGFsL3ZlcmlmaWNhciJ9"
+  data-signature-algorithm="RSA-PSS-SHA256"
+  data-signature="cDmAEM8sm98S8Iyowk1tGCi1QB5RmHS8SIxUMKMoXLIaLyXLZKN2KgW/oux+gGDRVlVuTeLUYAb7i1mwud7X95qSm9qPDuy3HgWv7vUQp+vtHK25BfHmWJ9HNMJS+SC6ycNUuS+q3q1FJW1dQ0coIOik9xwMZF7hXMks+UVWgI3hh28GuWKzRnJvuYfXIgTg1z77a2C01WB1zJKXWuDLqMF3QTbRr1eqgs+7h7nfqNTwuZjoCHozxPuua0M1K+rzFzRvCi5U7zJjxUb/VaMJs2pHnWSohKlQTqCBf0jlXpjdNCHomjRdQ64SMpLY/h7XuI6/CVnlHGAuujdfGVQoMNUCyArXCfzDeE/68nHx9UWzY5TP405/DEK9tgiW+WpBCrDWVYTqEYL9Iy2bzzxbbyI6CudUWxkvYeB6uD99Ds4szf20QG2VbOiurpxgeLez7S1AiD7uWcEo/5iRKjIQo8B6wIFrllVZPlzZV4F9FjqxRmT/m1KxeCzlq85OD5KaRbNtDCI51OzXbc/bf/Cs5w/BBX3PxVYYxdM1gm3OxhLKoynrLCKvLtHwDEJeOZCepjskETw5TRYqhgc+8B7jmUl92pNfrOEZaoJ5g3USwtLzS9flfMs1qxLUBg5v6q+WF4lfXU2N+StO8SY7UOAx3392Zze/IxpaLBmCX2cbMYE=">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/><stop offset="48%" stop-color="#0f172a"/><stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="35%" cy="25%" r="75%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".34"/><stop offset="45%" stop-color="#6366f1" stop-opacity=".14"/><stop offset="100%" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#67e8f9"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#10b981"/></linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .sans{font-family:Inter,Segoe UI,Arial,sans-serif}
+      .mono{font-family:JetBrains Mono,Consolas,monospace}
+      .label{fill:#94a3b8;font-size:12px;letter-spacing:.14em;font-weight:700}
+      .value{fill:#e0f2fe;font-size:17px;font-weight:700}
+    </style>
+  </defs>
+
+  <rect width="960" height="540" rx="34" fill="url(#bg)"/>
+  <rect width="960" height="540" rx="34" fill="url(#aura)"/>
+  <rect x="16" y="16" width="928" height="508" rx="28" fill="none" stroke="url(#line)" stroke-width="2.2" opacity=".82"/>
+  <path d="M42 112 H918" stroke="url(#line)" stroke-width="1" opacity=".38"/>
+
+  <g transform="translate(72 54)">
+    <circle cx="42" cy="42" r="34" fill="#020617" stroke="#22d3ee" stroke-width="2" filter="url(#glow)"/>
+    <path d="M24 43 L38 57 L63 27" fill="none" stroke="#10b981" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="96" y="34" class="sans" fill="#f8fafc" font-size="32" font-weight="900" letter-spacing=".04em">RAG DATA</text>
+    <text x="98" y="62" class="sans" fill="#67e8f9" font-size="13" font-weight="800" letter-spacing=".20em">SELO FORENSE DE INTEGRIDADE</text>
+  </g>
+
+  <g transform="translate(64 140)">
+    <rect width="832" height="264" rx="24" fill="#0f172a" opacity=".62" stroke="#334155"/>
+
+    <text x="32" y="42" class="sans label">DOCUMENTO SHA-256</text>
+    <text x="32" y="76" class="mono" fill="#e0f2fe" font-size="18" font-weight="800">E669EC1C330578B66AE365CED157063A</text>
+    <text x="32" y="103" class="mono" fill="#e0f2fe" font-size="18" font-weight="800">A37E3FA9049D11F54C4DFF15353081A0</text>
+
+    <text x="32" y="154" class="sans label">ID DO SELO</text>
+    <text x="32" y="184" class="mono value">RD-20260516T165307-E669EC1C33</text>
+    <text x="32" y="226" class="sans label">EMISSÃO UTC</text>
+    <text x="32" y="250" class="mono value">2026-05-16T16:53:07Z</text>
+
+    <text x="456" y="154" class="sans label">RESPONSÁVEL TÉCNICO-JURÍDICO</text>
+    <text x="456" y="184" class="sans value">Dra. Miriam Mesquita Reis - OAB/RJ 17…</text>
+    <text x="456" y="226" class="sans label">SOFTWARE REGISTRADO</text>
+    <text x="456" y="250" class="sans value">INPI BR512026002804-3</text>
+  </g>
+
+  <g transform="translate(72 438)">
+    <text x="0" y="0" class="sans" fill="#94a3b8" font-size="13">Assinatura criptográfica RSA-PSS/SHA-256 • metadados embarcados no SVG • PDF original preservado por hash.</text>
+    <text x="0" y="30" class="mono" fill="#64748b" font-size="11">Verificação: https://auditforense.digital/verificar • Source hash RAG DATA: A6900421734DC10B583B…</text>
+  </g>
+</svg>

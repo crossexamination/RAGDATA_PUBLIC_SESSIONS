@@ -1,0 +1,21 @@
+{
+  "manifest": {
+    "schema": "ragdata.forensic-seal.v2",
+    "app": "RAG DATA - Assinador Forense Seguro",
+    "app_version": "2.0-secure",
+    "seal_id": "RD-20260516T165307-E669EC1C33",
+    "issued_at_utc": "2026-05-16T16:53:07Z",
+    "signer": "Dra. Miriam Mesquita Reis - OAB/RJ 171.039",
+    "registered_software": "INPI BR512026002804-3",
+    "source_hash_sha256": "a6900421734dc10b583bdfe3be5f2d40edd228ed024712003db96fbb0e3c5852",
+    "document_name": "ATA_CONSOLIDADA_SESSAO_16_05_2026.pdf",
+    "document_sha256": "e669ec1c330578b66ae365ced157063aa37e3fa9049d11f54c4dff15353081a0",
+    "signature_algorithm": "RSA-PSS-SHA256",
+    "hash_algorithm": "SHA-256",
+    "verification_url": "https://auditforense.digital/verificar",
+    "legal_note": "Registro técnico de integridade. A avaliação jurídico-probatória depende de curadoria humana e contexto do caso."
+  },
+  "manifest_canonical_base64": "eyJhcHAiOiJSQUcgREFUQSAtIEFzc2luYWRvciBGb3JlbnNlIFNlZ3VybyIsImFwcF92ZXJzaW9uIjoiMi4wLXNlY3VyZSIsImRvY3VtZW50X25hbWUiOiJBVEFfQ09OU09MSURBREFfU0VTU0FPXzE2XzA1XzIwMjYucGRmIiwiZG9jdW1lbnRfc2hhMjU2IjoiZTY2OWVjMWMzMzA1NzhiNjZhZTM2NWNlZDE1NzA2M2FhMzdlM2ZhOTA0OWQxMWY1NGM0ZGZmMTUzNTMwODFhMCIsImhhc2hfYWxnb3JpdGhtIjoiU0hBLTI1NiIsImlzc3VlZF9hdF91dGMiOiIyMDI2LTA1LTE2VDE2OjUzOjA3WiIsImxlZ2FsX25vdGUiOiJSZWdpc3RybyB0w6ljbmljbyBkZSBpbnRlZ3JpZGFkZS4gQSBhdmFsaWHDp8OjbyBqdXLDrWRpY28tcHJvYmF0w7NyaWEgZGVwZW5kZSBkZSBjdXJhZG9yaWEgaHVtYW5hIGUgY29udGV4dG8gZG8gY2Fzby4iLCJyZWdpc3RlcmVkX3NvZnR3YXJlIjoiSU5QSSBCUjUxMjAyNjAwMjgwNC0zIiwic2NoZW1hIjoicmFnZGF0YS5mb3JlbnNpYy1zZWFsLnYyIiwic2VhbF9pZCI6IlJELTIwMjYwNTE2VDE2NTMwNy1FNjY5RUMxQzMzIiwic2lnbmF0dXJlX2FsZ29yaXRobSI6IlJTQS1QU1MtU0hBMjU2Iiwic2lnbmVyIjoiRHJhLiBNaXJpYW0gTWVzcXVpdGEgUmVpcyAtIE9BQi9SSiAxNzEuMDM5Iiwic291cmNlX2hhc2hfc2hhMjU2IjoiYTY5MDA0MjE3MzRkYzEwYjU4M2JkZmUzYmU1ZjJkNDBlZGQyMjhlZDAyNDcxMjAwM2RiOTZmYmIwZTNjNTg1MiIsInZlcmlmaWNhdGlvbl91cmwiOiJodHRwczovL2F1ZGl0Zm9yZW5zZS5kaWdpdGFsL3ZlcmlmaWNhciJ9",
+  "signature_base64": "cDmAEM8sm98S8Iyowk1tGCi1QB5RmHS8SIxUMKMoXLIaLyXLZKN2KgW/oux+gGDRVlVuTeLUYAb7i1mwud7X95qSm9qPDuy3HgWv7vUQp+vtHK25BfHmWJ9HNMJS+SC6ycNUuS+q3q1FJW1dQ0coIOik9xwMZF7hXMks+UVWgI3hh28GuWKzRnJvuYfXIgTg1z77a2C01WB1zJKXWuDLqMF3QTbRr1eqgs+7h7nfqNTwuZjoCHozxPuua0M1K+rzFzRvCi5U7zJjxUb/VaMJs2pHnWSohKlQTqCBf0jlXpjdNCHomjRdQ64SMpLY/h7XuI6/CVnlHGAuujdfGVQoMNUCyArXCfzDeE/68nHx9UWzY5TP405/DEK9tgiW+WpBCrDWVYTqEYL9Iy2bzzxbbyI6CudUWxkvYeB6uD99Ds4szf20QG2VbOiurpxgeLez7S1AiD7uWcEo/5iRKjIQo8B6wIFrllVZPlzZV4F9FjqxRmT/m1KxeCzlq85OD5KaRbNtDCI51OzXbc/bf/Cs5w/BBX3PxVYYxdM1gm3OxhLKoynrLCKvLtHwDEJeOZCepjskETw5TRYqhgc+8B7jmUl92pNfrOEZaoJ5g3USwtLzS9flfMs1qxLUBg5v6q+WF4lfXU2N+StO8SY7UOAx3392Zze/IxpaLBmCX2cbMYE=",
+  "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAnjyH4tK9OtIyx1B1xUEI\nit5LKAmlqxiuDf6TnjBxXaCTRz/rMG780tY5njJKUROK3J+skz8dOx+1/nxFWDJF\nZdipT4u1xCk6jjBmffNu0qV4phevHi29qVV0YPAybOOtWpRkfZX3D5NORKdDfX6H\nxC4gADgCDUXl7uKrt2bt/kp7JUVfS2TjTnxgq/4kb+R72SAKoztTBIomSfwXgCzK\nEWqWQ6gjGb/lpRqDYPxfnMqtgWQ/N4PG/eRVPmuyH+tAzNGbYyibwuOvlNRY2tlr\nL+oVbHAKc7V3bXv8djZXxfCLqQr5MfvuODSIHPkfYoLZCr3cFOYraXp+hXOuAq0o\nESnsPFYBVEBNPVkxGRnq/x3N+RcTIQ68KGRew/DN9womJcn2a/OuQGWBm8JLXvz7\nCa5ZJdPZhGmt+GZRwo4H6DT/C9DUnJX5S+X1VQ3wZg7INh6nGwyrQZCfEJ63+ngx\nzcFwbvxVinQbEvY9BIxFrbDRdLXeH89XotNE8URBnhRhSmvYwEdNGB+5HGJQyen7\nuB1RvcxxjWOz+vnPo7EvSAbVBWffwGhqh78jow8PZ635e7DAufwUhh9I9T/EcS91\nXkhhFBAJAlSLwjdx8INozlu+uponH8kabi+6wy7oJ7Cf0lCUJhNMhjcxNr/SSgi+\nxzrZn/V58p7Ajx1hXf5EcIMCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+}
