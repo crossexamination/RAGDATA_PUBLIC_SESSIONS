@@ -16,3 +16,5 @@ This repository contains the **output** of those sessions, including:
 - **Anthropic Compliance Endorsements**
 
 *Note: Due to strict enterprise data custody laws, the underlying AWS Bedrock intelligence orchestration algorithms (the "Dossiers") remain safely isolated in private infrastructure. This repository guarantees public verification without compromising the core technology.*
+
+"This repository serves as the transparent, immutable ledger for all public debate sessions held on our primary portals: www.crossexamination.online and www.crossexamination.digital."
